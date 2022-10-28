@@ -1,4 +1,4 @@
-package io.github.diegomardu.multibases.model;
+package io.github.diegomardu.multibases.model.app;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

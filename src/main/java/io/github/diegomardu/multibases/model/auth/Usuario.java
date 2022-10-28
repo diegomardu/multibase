@@ -1,4 +1,4 @@
-package io.github.diegomardu.multibases.model;
+package io.github.diegomardu.multibases.model.auth;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

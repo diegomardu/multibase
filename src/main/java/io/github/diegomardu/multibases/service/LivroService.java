@@ -2,7 +2,7 @@ package io.github.diegomardu.multibases.service;
 
 import java.util.List;
 
-import io.github.diegomardu.multibases.model.Livro;
+import io.github.diegomardu.multibases.model.app.Livro;
 
 public interface LivroService {
 	

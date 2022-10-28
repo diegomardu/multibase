@@ -5,10 +5,10 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import io.github.diegomardu.multibases.model.Livro;
-import io.github.diegomardu.multibases.model.Usuario;
-import io.github.diegomardu.multibases.repository.LivroRepository;
-import io.github.diegomardu.multibases.repository.UsuarioRepository;
+import io.github.diegomardu.multibases.model.app.Livro;
+import io.github.diegomardu.multibases.model.auth.Usuario;
+import io.github.diegomardu.multibases.repository.app.LivroRepository;
+import io.github.diegomardu.multibases.repository.auth.UsuarioRepository;
 import io.github.diegomardu.multibases.service.LivroService;
 
 @Service
